@@ -1,46 +1,41 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Welcome!
+
+tagline: Programming, Maybe Math, Maybe Humor
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Programming, Maybe Math, Maybe Humor
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+I'm Marco Draeger, German, computer scientist, hobby programmer, 
+__Firefly__ and __Doctor Who__ fan, 
+martial arts interested (holding black belts in [Aikido](http://en.wikipedia.org/wiki/Aikido), 
+[Iaido](http://en.wikipedia.org/wiki/Iaido), and [Battojutsu](http://en.wikipedia.org/wiki/Battojutsu)),
+runner, fitness enthusiast, and general geek.
 
-## Update Author Attributes
+Interests
+---------
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+I have studied Computer Science and Operations Research. Although these skills are rarely required
+in my daily work, I have strong interests in (not exclusively):
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+-   programming languages (Haskell rules, though.)
+-   fancy data structures
+-   machine learning and applications
+-   big data (just because it is fancy)
+-   natural language processing
+-   everything else that's geeky
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+Blogs
+-----
 
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+Knowing myself, this will mainly remain a construction site with few updates in case I feel like it. 
+However, should I really blog something, it will show up in the following list:
 
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
 
