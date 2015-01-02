@@ -10,8 +10,10 @@ Programming, Maybe Math, Maybe Humor
 
 I'm Marco Draeger, German, computer scientist, hobby programmer, 
 __Firefly__ and __Doctor Who__ fan, 
-martial arts interested (holding black belts in [Aikido](http://en.wikipedia.org/wiki/Aikido), 
-[Iaido](http://en.wikipedia.org/wiki/Iaido), and [Battojutsu](http://en.wikipedia.org/wiki/Battojutsu)),
+martial arts interested (holding black belts in 
+[Aikido](http://en.wikipedia.org/wiki/Aikido), 
+[Iaido](http://en.wikipedia.org/wiki/Iaido), and 
+[Battojutsu](http://en.wikipedia.org/wiki/Battojutsu)),
 runner, fitness enthusiast, and general geek.
 
 Interests
